@@ -3,6 +3,9 @@ This script replaces the logo shown in "About This Mac" with the Ryzen™ logo. 
 ![Light mode](https://user-images.githubusercontent.com/30559735/74857619-3c228c00-5344-11ea-920a-0e3b143375b8.png)
 ![Dark mode](https://user-images.githubusercontent.com/30559735/74857487-07163980-5344-11ea-8c5e-b97a31d2db5d.png)
 
+# Compatibility
+This script is intended for macOS 10.14+ users. The default Assets.car is from 10.15.3 and is not compatible with 10.14. macOS 10.14 users must extract their own Assets.car and modify them manually.
+
 # Download ThemeEngine from here
 ~~[ThemeEngine Repository](https://github.com/alexzielenski/ThemeEngine)~~
 
@@ -27,5 +30,5 @@ Run `git clone https://github.com/jogerj/Catalina-Ryzen-Logo/` to download
 
 # Credits
 * ThemeEngine is property of [Alex Zielenski](https://github.com/alexzielenski) and is licensed under the [BSD 2-Clause](https://github.com/alexzielenski/ThemeEngine/blob/v2/LICENSE).
-* [Apple](https://apple.com) for MacOS Catalina
+* [Apple](https://apple.com) for macOS Catalina
 * [AMD](https://amd.com) for AMD Ryzen™ logo
