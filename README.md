@@ -15,7 +15,7 @@ This script is intended for macOS 10.14+ users. The default Assets.car is from 1
 Run `git clone https://github.com/jogerj/Catalina-Ryzen-Logo/` to download
 
 # Instructions
-You need to disable System Integrity Protection (SIP) on your Mac/Hackintosh. Reboot to Recovery and run the Terminal and enter `csrutil disable` to disable SIP.
+You need to disable System Integrity Protection (SIP) on your Mac/Hackintosh. Reboot to Recovery and run the Terminal and enter `csrutil disable` to disable SIP. Reboot to macOS and open Terminal in the script's folder.
 
 1. Run ./InstallAssets.sh
 2. Done!
@@ -35,3 +35,6 @@ After that, you can re-enable SIP in recovery using `csrutil enable`.
 * ThemeEngine is property of [Alex Zielenski](https://github.com/alexzielenski) and is licensed under the [BSD 2-Clause](https://github.com/alexzielenski/ThemeEngine/blob/v2/LICENSE).
 * [Apple](https://apple.com) for macOS Catalina
 * [AMD](https://amd.com) for AMD Ryzen™ logo
+
+# Disclaimer
+<sub>I am not responsible for bricked devices, dead drives, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about this script and what it does before running it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.</sub>
