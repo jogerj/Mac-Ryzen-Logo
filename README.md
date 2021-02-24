@@ -8,8 +8,7 @@ This script is intended for macOS 10.14+ users. The default `Assets.car` include
 
 # Download ThemeEngine from here
 ~~[ThemeEngine Repository](https://github.com/alexzielenski/ThemeEngine)~~
-
-[Current working version](https://github.com/alexzielenski/ThemeEngine/issues/50#issuecomment-583745606)
+[New version updated for Big Sur](https://github.com/jslegendre/ThemeEngine/releases)
 
 # Download
 Run `git clone https://github.com/jogerj/Catalina-Ryzen-Logo/` to download
